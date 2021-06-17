@@ -1,0 +1,75 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (SFML.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\Slide.h(60,12): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\Slide.h(61,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\Slide.h(61,14): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\main.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\main.cpp(19,35): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\main.cpp(19,32): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Board.cpp
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\Slide.h(60,12): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\Slide.h(61,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\Slide.h(61,14): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\BFS.h(27,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\BFS.h(107,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\A_Star.h(17,21): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\A_Star.h(36,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\A_Star.h(86,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\A_Star.h(100,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\MazeGenerator_BackTracking.h(46,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\MazeGenerator_BackTracking.h(48,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\MazeGenerator_Prim.h(201,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\Board Input.h(9,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\Board Input.h(10,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\Board Input.h(25,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\Board Input.h(26,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\Board Input.h(41,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\Board Input.h(42,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\Board Input.h(52,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\Board Input.h(53,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\Board.cpp(140,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\Board.cpp(158,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\Board.cpp(159,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\Board.cpp(159,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\Board.cpp(201,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\Board.cpp(213,20): warning C4018: '<': signed/unsigned mismatch
+  Button.cpp
+  MazeGenerator_BackTracking.h
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\Slide.h(60,12): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\Slide.h(61,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\Slide.h(61,14): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\MazeGenerator_BackTracking.h(46,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\MazeGenerator_BackTracking.h(48,23): warning C4018: '<': signed/unsigned mismatch
+  Menu.cpp
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\Slide.h(60,12): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\Slide.h(61,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Salih\source\repos\PathFinding-MazeGenerator\SFML\Slide.h(61,14): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 409 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SFML.vcxproj -> C:\Users\Salih\source\repos\PathFinding-MazeGenerator\Release\PathFinding-MazeGenerator.exe

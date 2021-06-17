@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Board">
+      <UniqueIdentifier>{f127866a-8cda-428a-b323-d5187dea9318}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Board\MazeGenerators">
+      <UniqueIdentifier>{c0e2e9b8-93ba-4bc2-ba9c-c21d66cd8434}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Board\PathFinders">
+      <UniqueIdentifier>{98c18c4b-5064-49bd-93c1-f0718ca3ac19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Board\Input">
+      <UniqueIdentifier>{1da85b0e-3e7a-4b4d-8b9c-11b671c759b6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Board.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MazeGenerator_BackTracking.h">
+      <Filter>Header Files\Board\MazeGenerators</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Slide.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MazeGenerator_Sidewinder.h">
+      <Filter>Header Files\Board\MazeGenerators</Filter>
+    </ClInclude>
+    <ClInclude Include="MazeGenerator_Prim.h">
+      <Filter>Header Files\Board\MazeGenerators</Filter>
+    </ClInclude>
+    <ClInclude Include="A_Star.h">
+      <Filter>Header Files\Board\PathFinders</Filter>
+    </ClInclude>
+    <ClInclude Include="BFS.h">
+      <Filter>Header Files\Board\PathFinders</Filter>
+    </ClInclude>
+    <ClInclude Include="Board.h">
+      <Filter>Header Files\Board</Filter>
+    </ClInclude>
+    <ClInclude Include="Input.h">
+      <Filter>Header Files\Board\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="Slides Input.h">
+      <Filter>Header Files\Board\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="Board Input.h">
+      <Filter>Header Files\Board\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="Buttons Input.h">
+      <Filter>Header Files\Board\Input</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

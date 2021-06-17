@@ -1,0 +1,43 @@
+﻿  Board.cpp
+C:\Users\Salih\source\repos\SFML - Copy\SFML\Slide.h(60,12): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Salih\source\repos\SFML - Copy\SFML\Slide.h(61,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Salih\source\repos\SFML - Copy\SFML\Slide.h(61,14): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Salih\source\repos\SFML - Copy\SFML\BFS.h(27,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Salih\source\repos\SFML - Copy\SFML\BFS.h(107,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Salih\source\repos\SFML - Copy\SFML\A_Star.h(17,21): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Salih\source\repos\SFML - Copy\SFML\A_Star.h(36,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Salih\source\repos\SFML - Copy\SFML\A_Star.h(86,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Salih\source\repos\SFML - Copy\SFML\A_Star.h(100,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Salih\source\repos\SFML - Copy\SFML\MazeGenerator_BackTracking.h(46,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Salih\source\repos\SFML - Copy\SFML\MazeGenerator_BackTracking.h(48,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Salih\source\repos\SFML - Copy\SFML\MazeGenerator_Prim.h(201,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Salih\source\repos\SFML - Copy\SFML\Board Input.h(9,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Salih\source\repos\SFML - Copy\SFML\Board Input.h(10,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Salih\source\repos\SFML - Copy\SFML\Board Input.h(25,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Salih\source\repos\SFML - Copy\SFML\Board Input.h(26,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Salih\source\repos\SFML - Copy\SFML\Board Input.h(41,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Salih\source\repos\SFML - Copy\SFML\Board Input.h(42,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Salih\source\repos\SFML - Copy\SFML\Board Input.h(52,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Salih\source\repos\SFML - Copy\SFML\Board Input.h(53,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Salih\source\repos\SFML - Copy\SFML\Board.cpp(140,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Salih\source\repos\SFML - Copy\SFML\Board.cpp(158,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Salih\source\repos\SFML - Copy\SFML\Board.cpp(159,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Salih\source\repos\SFML - Copy\SFML\Board.cpp(159,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Salih\source\repos\SFML - Copy\SFML\Board.cpp(201,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Salih\source\repos\SFML - Copy\SFML\Board.cpp(213,20): warning C4018: '<': signed/unsigned mismatch
+  MazeGenerator_BackTracking.h
+C:\Users\Salih\source\repos\SFML - Copy\SFML\Slide.h(60,12): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Salih\source\repos\SFML - Copy\SFML\Slide.h(61,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Salih\source\repos\SFML - Copy\SFML\Slide.h(61,14): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Salih\source\repos\SFML - Copy\SFML\MazeGenerator_BackTracking.h(46,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Salih\source\repos\SFML - Copy\SFML\MazeGenerator_BackTracking.h(48,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  SFML.vcxproj -> C:\Users\Salih\source\repos\SFML - Copy\Debug\SFML.exe
